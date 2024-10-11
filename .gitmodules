@@ -1,0 +1,3 @@
+[submodule "quiz-frontend"]
+	path = quiz-frontend
+	url = https://github.com/HarshithG0WDA/quiz-frontend
