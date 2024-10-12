@@ -1,6 +1,12 @@
 # 🎮 Discord Quiz Bot - Your Ultimate Quizmaster 🧠
 Welcome to the **Discord Quiz Bot**  project! This bot can host exciting quizzes directly in your Discord server, track your progress, and crown the top quizzers on the leaderboard! Whether you're a trivia enthusiast or just looking for some friendly competition, this bot has got you covered. 🎉
 
+## Watch the Demo
+
+[![Watch the video](https://img.youtube.com/vi/ipi-q5a89HQ/0.jpg)](https://youtu.be/ipi-q5a89HQ)
+
+Check out this demo video to see how it works!
+
 ## 🚀 Features
 - **Custom Quizzes**: Create quizzes with as many questions as you want.
 - **Time Challenge**: Users have **30 seconds** to answer each question.
@@ -9,7 +15,7 @@ Welcome to the **Discord Quiz Bot**  project! This bot can host exciting quizzes
 ## 🛠️ Admin Portal
 The admin portal is built with **ReactJS** and offers a clean, intuitive interface:
 - **Add, View, and Delete Questions** effortlessly.
-- Includes an **About Page** with details about the project’s inspiration and goals.
+- Includes an **Home Page** with details about the Bot.
 - **Pushes all data** to a **Django**-powered database.
 ## 🎯 Quick Setup Guide
 
@@ -25,6 +31,7 @@ npm start
 
 ### 2️⃣ Start the Discord Bot
 Before running the bot, don’t forget to replace the necessary API keys in config.ini under discord_sdk!
+and also the API key.py
 
 ```bash
 python3 Botmanager.py
